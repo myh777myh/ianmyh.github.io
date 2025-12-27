@@ -1,10 +1,9 @@
-primary_name: "Jasper"
-secondary_name: "Zongrong Li"
+primary_name: "Ian"
+secondary_name: "Yuheng Mao"
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
-  name: Ph.D. in Geographic Information Systems
+name: Ph.D. in Planning
 # - name: Position 2 without logo
 
 
